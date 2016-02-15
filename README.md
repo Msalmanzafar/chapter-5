@@ -1,6 +1,6 @@
-Frequently Asked Questions
-Q: Who can assist me?
-•	If you are having a problem with a non-Microsoft product, you should contact the manufacturer of the product.
+# Frequently Asked Questions
+##**Q: Who can assist me?**
+###•	If you are having a problem with a non-Microsoft product, you should contact the manufacturer of the product.
 •	If you are having a problem with a file downloaded from a web site, you should contact the web site.  They can let you know the software you will need.
 •	If you are having a problem with a Microsoft product, you can look for answers on the Microsoft Knowledge Base or you can contact Microsoft Product Support.
  
